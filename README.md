@@ -1,9 +1,8 @@
-[## Hey there! 👋
+## Hey there! 👋
 
 - 🚀 Building cross-platform apps for **Android**, **iOS** & **Web** using **Expo** & **React Native**
 - 🧪 Check out a live demo: [FlipBitz](https://flipbitz.netlify.app/web/)
-- 🌐 About me: [jatinthummar.github.io](https://jatinthummar.github.io/about)
-
+- 🔗 About me: [link](https://jatinthummar.github.io/about)
 
 ### Tech Stack 🛠
 
@@ -12,12 +11,11 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white)](#)
-[![React Native](https://img.shields.io/badge/-Tailwind%20Css-20232A?style=flat-square&logo=Tailwindcss&logoColor=61DAFB)](#)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=61DAFB)](#)
 
-
-### Recent blog posts
+### Recent Blog Posts
 
 - [Developers & Engineers to Follow](https://jatinthummar.github.io/blog/developers-and-engineers-to-follow/)
 - [Frontend Tools & Learning Resources](https://jatinthummar.github.io/blog/frontend-tools-and-learning-resources/)
 - [AI Tools & Learning Resources](https://jatinthummar.github.io/blog/ai-tools-and-learning-resources/)
-- [Engineering Blogs from Top Teams](https://jatinthummar.github.io/blog/engineering-blogs-from-top-teams/)](url)
+- [Engineering Blogs from Top Teams](https://jatinthummar.github.io/blog/engineering-blogs-from-top-teams/)
