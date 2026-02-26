@@ -1,10 +1,8 @@
-## Hey there! 👋
+[## Hey there! 👋
 
-- 🚀 Building apps that run on **Android + iOS + Web** using **Expo**   
-- 🧪 Check out a live demo of one of my projects: [FlipBitz](https://flipbitzz.expo.app/)
-
-
-
+- 🚀 Building cross-platform apps for **Android**, **iOS** & **Web** using **Expo** & **React Native**
+- 🧪 Check out a live demo: [FlipBitz](https://flipbitz.netlify.app/web/)
+- 🌐 About me: [jatinthummar.github.io](https://jatinthummar.github.io/about)
 
 
 ### Tech Stack 🛠
@@ -15,3 +13,11 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white)](#)
 [![React Native](https://img.shields.io/badge/-Tailwind%20Css-20232A?style=flat-square&logo=Tailwindcss&logoColor=61DAFB)](#)
+
+
+### Recent blog posts
+
+- [Developers & Engineers to Follow](https://jatinthummar.github.io/blog/developers-and-engineers-to-follow/)
+- [Frontend Tools & Learning Resources](https://jatinthummar.github.io/blog/frontend-tools-and-learning-resources/)
+- [AI Tools & Learning Resources](https://jatinthummar.github.io/blog/ai-tools-and-learning-resources/)
+- [Engineering Blogs from Top Teams](https://jatinthummar.github.io/blog/engineering-blogs-from-top-teams/)](url)
